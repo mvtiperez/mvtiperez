@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Perez</h1>
-<h3 align="center">A frontend student from Argentina</h3>
+<h3 align="center">A systems engineering student from Argentina</h3>
 
 - 🌱 I’m currently learning  **JavaScript**
 
