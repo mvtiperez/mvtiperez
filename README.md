@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  **JavaScript**
 
-- 👨‍💻 All of my projects are available at [matiasperez.online](https://www.matiasperez.online)
+- 👨‍💻 All of my projects are available [here](https://portafolio-mvtiperez.vercel.app)
 
 - 📫 How to reach me **mattiperez21@gmail.com**
 
